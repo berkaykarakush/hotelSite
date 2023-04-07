@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TuU8vkIteN2ETRzICYheNcgOAtoTd2KIpWtzfZ2dpuY=",
+  "Hash": "wXb/MvFiC2ML6Cl4Q8or0RAQ5keJfyc/MyTTfXz+K8w=",
   "Source": "hotelSite",
   "BasePath": "_content/hotelSite",
   "Mode": "Default",
@@ -153,12 +153,12 @@
       "OriginalItemSpec": "wwwroot\\icon.ico"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\disGorunum.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\about-1.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/disGorunum.jpg",
+      "RelativePath": "img/about-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\disGorunum.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\about-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\kingLife.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\about-2.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/kingLife.jpg",
+      "RelativePath": "img/about-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\kingLife.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\about-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\oda.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\about-3.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/oda.jpg",
+      "RelativePath": "img/about-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\oda.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\about-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\oda1.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\about-4.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/oda1.jpg",
+      "RelativePath": "img/about-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\oda1.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\about-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\oda2.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\carousel-1.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/oda2.jpg",
+      "RelativePath": "img/carousel-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\oda2.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\oda3.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\carousel-2.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/oda3.jpg",
+      "RelativePath": "img/carousel-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\oda3.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\oda4.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\room-1.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/oda4.jpg",
+      "RelativePath": "img/room-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\oda4.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\room-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\oda5.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\room-2.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/oda5.jpg",
+      "RelativePath": "img/room-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\oda5.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\room-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\oda6.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\room-3.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/oda6.jpg",
+      "RelativePath": "img/room-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\oda6.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\room-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\studyoLoft.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/studyoLoft.jpg",
+      "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\studyoLoft.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\tinyLoft.jpg",
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "hotelSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
       "BasePath": "_content/hotelSite",
-      "RelativePath": "img/tinyLoft.jpg",
+      "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,7 +337,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\tinyLoft.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\testimonial-3.jpg",
+      "SourceId": "hotelSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
+      "BasePath": "_content/hotelSite",
+      "RelativePath": "img/testimonial-3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\img\\testimonial-4.jpg",
+      "SourceId": "hotelSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\",
+      "BasePath": "_content/hotelSite",
+      "RelativePath": "img/testimonial-4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
       "Identity": "C:\\Users\\berka\\OneDrive\\Masaüstü\\Main\\hotelSite\\wwwroot\\js\\main.js",
